@@ -50,7 +50,7 @@ Not a big fan of taking notes on paper, why not taking them on GitHub.
 ### Neuter
 + а (Якщо -о) (Дерево Дерева)
 + я (Якщо -е) (Яйце Яйця)
-+ і (Якщо -Я + double consonant) (Життя Житті)
++ Stays the same (Якщо -Я + double consonant) (Життя Життя)
 + Foreign borrowings don't change (Евро Евро)
 
 | Gender | Form |
