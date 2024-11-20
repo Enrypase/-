@@ -39,6 +39,7 @@ Not a big fan of taking notes on paper, why not taking them on GitHub.
 - Німеччина 🇩🇪
 - Данія 🇩🇰
 - Японія 🇯🇵
+- США 🇺🇸
 
 ## Plurals
 ### Masculine
