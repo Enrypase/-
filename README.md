@@ -14,6 +14,9 @@ Not a big fan of taking notes on paper, why not taking them on GitHub.
 
 Пан (Mr.) & пані (Miss)
 
+Хто це?
+Що це?
+
 | 🇺🇦 | 🇺🇸 |  |  |
 | -- | -- | -- | -- |
 | Я  | I | Ми | We |
@@ -22,8 +25,12 @@ Not a big fan of taking notes on paper, why not taking them on GitHub.
 
 (Poi si incasina di piu')
 
-// TODO: Add the I am from translation + version
-## Nations
+## Countries
+
+### Where are you from?
+Свидки ти?
+
+### Nations
 - Італія 🇮🇹
 - Франція 🇫🇷
 - Україна 🇺🇦
@@ -40,6 +47,9 @@ Not a big fan of taking notes on paper, why not taking them on GitHub.
 - Данія 🇩🇰
 - Японія 🇯🇵
 - США 🇺🇸
+### I am From ...
+Я з Італії   (1st case)
+Я з України  (2nd case)
 
 ## Plurals
 ### Masculine
