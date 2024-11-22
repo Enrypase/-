@@ -54,15 +54,20 @@ Not a big fan of taking notes on paper, why not taking them on GitHub.
 ## Plurals
 ### Masculine
 + и (Долар Долари)
++ і (Якщо -ар -яр)
 + і (Якщо -ь) (Готель Готелі)
++ ї (Якщо -й) (Один трамвай - Два трамваї) **Irregular**
 ### Feminine
 + и (Якщо -а) (Книжка Книжки)
 + і (Якщо -я) (Вулиця Вулиці)
++ ї (Якщо -ія -ея -<vowel>я) (Одна акція - Дві акції) **Irregular**
 ### Neuter
 + а (Якщо -о) (Дерево Дерева)
 + я (Якщо -е) (Яйце Яйця)
 + Stays the same (Якщо -Я + double consonant) (Життя Життя)
-+ Foreign borrowings don't change (Евро Евро)
++ Foreign borrowings don't change (Євро Євро)
+```Specifica se aggiunge o rimpiazza plz + parte delle lettere strane```
+```Controlla esclusione che c'e' anche un'atra regola```
 
 | Gender | Form |
 | -- | -- |
