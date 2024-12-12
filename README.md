@@ -80,3 +80,29 @@ Not a big fan of taking notes on paper, why not taking them on GitHub.
 | Masculine | Два |
 | Feminine | Дві |
 | Neuter | Два |
+
+### Only Plural/Singular Forms
+#### Only Plural
+штани - Pants
+Джинси - Jeans
+Окуляри - Glasses
+Ножиці - Scissors
+(Одні) Шахи - Chess
+(Одні) Двері - Doors
+(Одні) Канікули - School holidays
+
+### Only Singular [Alcuni di sti bro sono sbagliati]
+Гроші - Money
+Ліки - Medication
+Меблі - Fornitures
+Їжа - Food
+Одяг - Clothes
+Взуття - Shoes
+Готівка - Cash
+Інформація - Information
+Політика - Politics
+Математика - Matematics
+Виноград - Grapes
+Шоколад - Cioccolata
+Картопля - Potatoes
+Малина - Raspberries
